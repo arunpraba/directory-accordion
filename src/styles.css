@@ -1,0 +1,15 @@
+ul {
+  background-color: #f4f4f4;
+}
+
+li {
+  list-style-type: none;
+  padding: 10px;
+  border-bottom: 1px solid #cccccc;
+  cursor: pointer;
+}
+
+.accordion-button {
+  background: transparent;
+  border: 0;
+}
